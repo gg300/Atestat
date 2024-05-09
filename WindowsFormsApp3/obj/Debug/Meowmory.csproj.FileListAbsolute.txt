@@ -1,0 +1,12 @@
+E:\Atestat\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Atestat\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Atestat\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Atestat\WindowsFormsApp3\obj\Debug\Meowmory.csproj.AssemblyReference.cache
+E:\Atestat\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Dificuly.resources
+E:\Atestat\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Atestat\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\Atestat\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Atestat\WindowsFormsApp3\obj\Debug\Meowmory.csproj.GenerateResource.cache
+E:\Atestat\WindowsFormsApp3\obj\Debug\Meowmory.csproj.CoreCompileInputs.cache
+E:\Atestat\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Atestat\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
